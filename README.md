@@ -44,6 +44,10 @@
 
 ## 🛠️ Some of my work as a Web Developer
 -------------------
-- 💻 Web Site : [Biomedical Servin S.A. de C.V.](https://www.biomedical-servin.com.mx/)
-- 💻 E-commerce : [Biosersa](https://biosersa.com.mx/)
-- 💻 Web Site : [Fabricaciones Especiales FEMIYSA S.A. de C.V.](https://femiysa.com.mx/)
+### Web Site:
+
+- 💻 [![Web Site](https://img.shields.io/badge/Biomedical%20Servin-red)](https://www.biomedical-servin.com.mx/)
+- 💻 [![Web Site](https://img.shields.io/badge/Fabricaciones%20Especiales%20FEMIYSA-%2312870e)](https://femiysa.com.mx/)
+### E-commerce:
+
+- 💻 [![E-commerce](https://img.shields.io/badge/Biosersa-%231969F5)](https://biosersa.com.mx/)
