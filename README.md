@@ -39,3 +39,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+&emsp;
+
+## 🛠️ Some of my work as a Web Developer
+-------------------
+- 💻 Web Site : [Biomedical Servin S.A. de C.V.](https://www.biomedical-servin.com.mx/)
+- 💻 E-commerce : [Biosersa](https://biosersa.com.mx/)
+- 💻 Web Site : [Fabricaciones Especiales FEMIYSA S.A. de C.V.](https://femiysa.com.mx/)
