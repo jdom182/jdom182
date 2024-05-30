@@ -2,7 +2,7 @@
 
 -------------------
 &emsp;
-<h3 align left>I'm José Domingo, a diligent and effective analyst, with solid experience in the design, development and implementation of high-quality software applications and solutions.</h3>
+<h3 align left>I'm José Domingo, a diligent and effective analyst, with solid experience designing, development and implementation of high-quality software applications and solutions.</h3>
 &emsp;
 
 -------------------
